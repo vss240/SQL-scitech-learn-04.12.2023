@@ -1,0 +1,1 @@
+# SQL-scitech-learn-04.12.2023
