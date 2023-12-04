@@ -33,3 +33,5 @@
 08:30:07 Operators
 08:55:50 Exception handling in SQL
 # 08:59:55 SQL Server Interview Question & Answer #
+
+https://we.tl/t-nP3M4sbX6D
