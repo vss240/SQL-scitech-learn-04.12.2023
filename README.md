@@ -34,4 +34,6 @@
 08:55:50 Exception handling in SQL
 # 08:59:55 SQL Server Interview Question & Answer #
 
+https://we.tl/t-0YIMMr8CBl working with mul files
+
 https://we.tl/t-nP3M4sbX6D
