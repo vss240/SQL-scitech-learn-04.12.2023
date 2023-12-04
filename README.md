@@ -33,7 +33,7 @@
 08:30:07 Operators
 08:55:50 Exception handling in SQL
 # 08:59:55 SQL Server Interview Question & Answer #
-
+https://wetransfer.com/downloads/e80e23de671b251fe8a549bc74a6da4c20231204142840/2037db
 https://we.tl/t-0YIMMr8CBl working with mul files
 
 https://we.tl/t-nP3M4sbX6D
