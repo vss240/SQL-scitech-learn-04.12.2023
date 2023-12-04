@@ -1,4 +1,5 @@
 # SQL-scitech-learn-04.12.2023
+# SQL was initially developed at IBM by Donald D. Chamberlin and Raymond F. Boyce after learning about the relational model from Edgar F. Codd in the early 1970s.
 
 # 00:00:00 Introduction to SQL Full Course 
 00:02:23 Agenda
