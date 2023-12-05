@@ -37,3 +37,5 @@
 
 
 https://we.tl/t-Pep1kC9MOo - github + sql + C with notes
+
+https://we.tl/t-G2RpaaWt9X -  python + notes
