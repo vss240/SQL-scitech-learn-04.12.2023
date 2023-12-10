@@ -35,5 +35,5 @@
 08:55:50 Exception handling in SQL
 # 08:59:55 SQL Server Interview Question & Answer #
 
-https://we.tl/t-XGQfN6dqat -ANIMAL 2023 HINDI
+https://we.tl/t-bTADAXCpw7 - A CLEMENT
 
