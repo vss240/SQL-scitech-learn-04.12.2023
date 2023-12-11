@@ -35,5 +35,5 @@
 08:55:50 Exception handling in SQL
 # 08:59:55 SQL Server Interview Question & Answer #
 
-https://we.tl/t-5PaWssIN96 - hi nanna 2023
+
 
