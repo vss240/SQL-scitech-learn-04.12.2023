@@ -3,6 +3,9 @@
 https://we.tl/t-TEwpH3bkeb
 
 
+https://we.tl/t-4MpDGCt3bs
+
+
 
 
 # 00:00:00 Introduction to SQL Full Course 
