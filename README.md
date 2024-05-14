@@ -1,9 +1,5 @@
 # SQL was initially developed at IBM by Donald D. Chamberlin and Raymond F. Boyce after learning about the relational model from Edgar F. Codd in the early 1970s.
 
-https://we.tl/t-TEwpH3bkeb
-
-
-https://we.tl/t-4MpDGCt3bs
 
 
 
